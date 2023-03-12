@@ -3,4 +3,4 @@ Reditribution of PPSF - An Open-Source Privacy-Preserving and Security Mining Fr
 
 PPSF is copyright by Jerry Chun-Wei Lin and some parts are copyright by contributors.
 
-## Publications and Other resources for Privacy-Preserving: https://privacytools.seas.harvard.edu/differential-privacy
+#### Publications and Other resources for Privacy-Preserving: https://privacytools.seas.harvard.edu/differential-privacy
